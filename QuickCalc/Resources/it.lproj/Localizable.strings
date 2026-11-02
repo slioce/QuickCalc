@@ -1,0 +1,123 @@
+/* Panel */
+"e.g. 200+10% · 5 km in mi" = "es. 200+10% · 5 km in mi";
+"Help (?)" = "Guida (?)";
+"Copy result (⌘C)" = "Copia risultato (⌘C)";
+"Copy result" = "Copia risultato";
+"Copied" = "Copiato";
+"copied" = "copiato";
+"Help" = "Guida";
+"ECB %@" = "BCE %@";
+
+/* Menu */
+"Open with %@" = "Apri con %@";
+"Shortcut %@ unavailable" = "Scorciatoia %@ non disponibile";
+"Launch at Login" = "Apri al login";
+"Clear History" = "Cancella cronologia";
+"About QuickCalc" = "Informazioni su QuickCalc";
+"Quit QuickCalc" = "Esci da QuickCalc";
+"Free software under the GNU General Public License v3." = "Software libero sotto licenza GNU General Public License v3.";
+
+/* Errors */
+"Incomplete expression" = "Espressione incompleta";
+"Invalid expression" = "Espressione non valida";
+"Invalid number" = "Numero non valido";
+"Invalid character: %@" = "Carattere non valido: %@";
+"Unknown name: %@" = "Nome sconosciuto: %@";
+"Use %@(…)" = "Usa %@(…)";
+"%@ takes 1 argument" = "%@ richiede 1 argomento";
+"%@ takes 1 or 2 arguments (separate with ;)" = "%@ richiede 1 o 2 argomenti (separa con ;)";
+"%@ takes at least 2 arguments (separate with ;)" = "%@ richiede almeno 2 argomenti (separa con ;)";
+"Use mod for the remainder" = "Usa mod per il resto";
+"Division by zero" = "Divisione per zero";
+"Integer required" = "Serve un intero";
+"Integer too large" = "Intero troppo grande";
+"Shift must be between 0 and 63" = "Lo shift deve essere tra 0 e 63";
+"Undefined result" = "Risultato non definito";
+"Number too large" = "Numero troppo grande";
+"No previous result" = "Nessun risultato precedente";
+"Unknown unit: %@" = "Unità sconosciuta: %@";
+"Incompatible units: %@ → %@" = "Unità incompatibili: %@ → %@";
+"Give the starting unit (e.g. 5 km in m)" = "Specifica l'unità di partenza (es. 5 km in m)";
+"Exchange rates not downloaded yet: needs internet" = "Tassi di cambio non ancora scaricati: serve internet";
+"No exchange rate for %@" = "Cambio non disponibile per %@";
+
+/* Help: sections */
+"Basics" = "Base";
+"Percentages and previous result" = "Percentuali e risultato precedente";
+"Functions" = "Funzioni";
+"Programmer" = "Programmatore";
+"Units" = "Unità";
+"Currencies" = "Valute";
+"Keys" = "Tasti";
+"About" = "Informazioni";
+"Click to try it" = "Clic per provarlo";
+
+/* Help: examples */
+"+ − * / (also × ÷)" = "+ − * / (anche × ÷)";
+"comma or point as decimal" = "virgola o punto decimale";
+"power (also **)" = "potenza (anche **)";
+"parentheses" = "parentesi";
+"remainder" = "resto della divisione";
+"factorial" = "fattoriale";
+"root, square, cube ³" = "radice, quadrato, cubo ³";
+"implicit multiplication" = "moltiplicazione implicita";
+"scientific notation" = "notazione scientifica";
+"adds 10%" = "aggiunge il 10%";
+"takes off 15%" = "toglie il 15%";
+"5% of 80" = "il 5% di 80";
+"continues from the last result" = "riparte dall'ultimo risultato";
+"ans = last result" = "ans = ultimo risultato";
+"square root (also cbrt)" = "radice (anche cbrt)";
+"trigonometry, ° for degrees" = "trigonometria, ° per i gradi";
+"base-10 logarithm" = "logaritmo in base 10";
+"logarithm in any base" = "logaritmo in base a scelta";
+"natural (also log2, exp)" = "naturale (anche log2, exp)";
+"round (floor, ceil, abs)" = "arrotonda (floor, ceil, abs)";
+"min and max, separate with ;" = "min e max, separa con ;";
+"constants pi π and tau" = "costanti pi π e tau";
+"hex and binary (0o octal)" = "hex e binario (0o ottale)";
+"to hex, bin, oct, dec" = "in hex, bin, oct, dec";
+"bitwise AND (| OR, xor)" = "AND bit a bit (| OR, xor)";
+"bitwise NOT" = "NOT bit a bit";
+"shift (also >>)" = "shift (anche >>)";
+"convert with in or to" = "converti con in, to o a";
+"temperature" = "temperatura";
+"volume (m3 or m³)" = "volume (m3 o m³)";
+"speed" = "velocità";
+"data" = "dati";
+"power" = "potenza";
+"today's ECB rate" = "cambio BCE del giorno";
+"also with € $ £ ¥" = "anche con € $ £ ¥";
+"euros, dollars, sterling…" = "euro, dollari, sterline…";
+
+/* Help: lists */
+"Codes" = "Codici";
+"Length" = "Lunghezza";
+"Mass" = "Massa";
+"Time" = "Tempo";
+"Temperature" = "Temperatura";
+"Volume" = "Volume";
+"Area" = "Superficie";
+"Speed" = "Velocità";
+"Data" = "Dati";
+"Energy" = "Energia";
+"Pressure" = "Pressione";
+"Power" = "Potenza";
+
+/* Help: keys */
+"opens QuickCalc from any app" = "apre QuickCalc da ogni app";
+"Return" = "Invio";
+"copies the result and saves it" = "copia il risultato e lo salva";
+"copies without clearing the field" = "copia senza svuotare il campo";
+"recalls previous calculations" = "richiama i calcoli precedenti";
+"closes the help, then the panel" = "chiude la guida, poi il pannello";
+"opens this help" = "apre questa guida";
+
+/* Help: about */
+"Version %@" = "Versione %@";
+"Author" = "Autore";
+"License" = "Licenza";
+"Exchange rates" = "Cambi valuta";
+"European Central Bank" = "Banca Centrale Europea";
+"Icons" = "Icone";
+"Apple SF Symbols" = "SF Symbols di Apple";
